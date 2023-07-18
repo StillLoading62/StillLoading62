@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @StillLoading62
+- 👀 I’m interested in python/java/C#
+- 🌱 I’m currently learning python
